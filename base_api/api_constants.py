@@ -1,0 +1,2 @@
+class ApiMethod:
+    pass

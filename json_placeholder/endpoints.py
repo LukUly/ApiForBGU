@@ -1,0 +1,1 @@
+GET_POSTS_ENDPOINT = "https://jsonplaceholder.typicode.com/posts"
